@@ -1,7 +1,4 @@
-# T4_Buck
 # Trabalho 4 — Análise, Modelagem e Controle de Conversor Buck
-https://github.com/rnunesufc/T4_Buck
-
 
 Este repositório contém o desenvolvimento completo de um estudo envolvendo:
 - modelagem matemática do conversor *Buck* em regime contínuo;
@@ -13,6 +10,14 @@ Este repositório contém o desenvolvimento completo de um estudo envolvendo:
 - simulações comparativas em domínio do tempo e frequência.
 
 Todo o fluxo foi implementado em ambiente `Jupyter Notebook`, visando suporte acadêmico ao estudo de Eletrônica de Potência e Controle Digital.
+
+---
+
+## ▶️ Executar no Google Colab
+
+Clique no botão abaixo para executar **online** (sem instalar nada):
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rnunesufc/T4_Buck/blob/main/Trabalho4_buck_revisado.ipynb)
 
 ---
 
@@ -34,5 +39,3 @@ numpy
 matplotlib
 scipy
 control
-
-
